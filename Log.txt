@@ -1,0 +1,3 @@
+Developement notes:
+V 0.1:
+	First fully working implementation. Contains 7 windows that collectively make up a working game. What it currently does not have is a written user guide or theme choice. These features are in the pipeline and will be released soon.
